@@ -1,1 +1,1 @@
-# IdeaGenerator
+# IdeaGenerator yes
